@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:cursive;
+}
+body {
+    background-color: darksalmon;
+}
+.img {
+    width: 80%;
+    margin: 100px auto 50px;
+    display: flex;
+    border-radius: 0.3s ease;;
+}
